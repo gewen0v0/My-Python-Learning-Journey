@@ -1,6 +1,7 @@
 # BMI 健康分类程序
 # 功能：定义 fun_bmi 函数，输入姓名、身高、体重，
 # 计算 BMI 指数并按四档给出健康提示
+
 def fun_bmi(name, height, weight):
     print(name + '的身高：' + str(height) + '米，体重：' + str(weight) + '千克')
     bmi = weight / (height * height)
