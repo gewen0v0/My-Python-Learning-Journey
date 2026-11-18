@@ -1,6 +1,7 @@
 # My-Python-Learning-Journey
 Python 课程学习记录
 My-Python-Learning-Journey
+
 一、项目简介
 本项目是我在《Python 语言》课程学习过程中建立的个人学习仓库，用来保存课堂练习和平时作业中编写的 Python 程序，记录自己从零开始学习 Python 的全过程。
 目前仓库包含两个功能明确的小程序：
